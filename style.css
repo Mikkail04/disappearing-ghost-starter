@@ -39,3 +39,13 @@ button {
 .name-button {
     background-color: #17d3ff;
 }
+
+.bg-color-button{
+  background-color: #FF0000;
+}
+
+
+.secret-extra-button{
+  background-color: #FFC0CB;
+  display:none;
+}
